@@ -7,3 +7,5 @@ Microsoft login account is required.
 
 ![image](https://user-images.githubusercontent.com/22975695/132434660-165470c7-699d-441f-a1a9-3e594cdadff1.png)
 
+You can find notebook files that processed fine-tuning and performed tasks. 
+Result files to compose BI platform are located the in folder. 
